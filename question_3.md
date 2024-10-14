@@ -20,5 +20,5 @@ Write a function that takes a string and returns the count of distinct case-inse
 "Indivisibilities"
 
 # Output:
-2  # 'i' appears multiple times, case-insensitive
+2  # 'i' and 's' both appear more than once
 ```
